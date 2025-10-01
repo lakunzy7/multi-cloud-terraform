@@ -1,0 +1,12 @@
+# Terraform state files
+*.tfstate
+*.tfstate.*
+
+# Terraform cache folder
+.terraform/
+
+# Lock file (optional)
+.terraform.lock.hcl
+
+# Sensitive variables
+*.tfvars
