@@ -134,17 +134,6 @@ terraform destroy
 
 ---
 
-## 📸 Screenshots
-
-(Optional) Include screenshots of:
-
-* AWS S3 buckets in each region
-* S3 bucket versioning page
-* Azure Resource Groups
-* Azure Storage Accounts
-
----
-
 ## ✨ Key Learnings
 
 * Navigated the **Terraform Registry** to find resources and providers.
@@ -172,5 +161,5 @@ terraform destroy
 
 **Lakunzy Owofola**
 
-* GitHub: [https://github.com/<lakunzy7>](https://github.com/<lakunzy7>)
+* GitHub: [https://github.com/<lakunzy7>](https://github.com/lakunzy7)
 * YouTube: [CyberLab Chronicles](https://www.youtube.com/@CyberLabChronicles)
